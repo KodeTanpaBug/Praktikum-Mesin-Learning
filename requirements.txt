@@ -1,7 +1,9 @@
-Flask
-pandas
+flask
 numpy
-matplotlib
-seaborn
+opencv-python
 scikit-learn
+joblib
+pillow
+pandas
 gunicorn
+matplotlib
